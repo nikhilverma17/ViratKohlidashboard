@@ -1,0 +1,594 @@
+﻿ Runs,Mins,BF,4s,6s,SR,Pos,Dismissal,Inns,Opposition,Ground,Result,Start Date,Match No.,Captain,Format
+12,33,22,1,0,54.54,2,lbw,1,Sri Lanka,Dambulla,Loss,18-08-2008,ODI # 2742,No,ODI
+37,82,67,6,0,55.22,2,caught,2,Sri Lanka,Dambulla,Won,20-08-2008,ODI # 2745,No,ODI
+25,40,38,4,0,65.78,1,run out,1,Sri Lanka,Colombo (RPS),Won,24-08-2008,ODI # 2750,No,ODI
+54,87,66,7,0,81.81,1,bowled,1,Sri Lanka,Colombo (RPS),Won,27-08-2008,ODI # 2755,No,ODI
+31,45,46,3,1,67.39,1,lbw,2,Sri Lanka,Colombo (RPS),Loss,29-08-2008,ODI # 2756,No,ODI
+2,6,2,0,0,100,7,not out,1,Sri Lanka,Colombo (RPS),Won,14-09-2009,ODI # 2889,No,ODI
+16,28,24,1,0,66.66,4,caught,2,Pakistan,Centurion,Loss,26-09-2009,ODI # 2898,No,ODI
+79,121,104,9,2,75.96,4,not out,2,West Indies,Johannesburg,Won,30-09-2009,ODI # 2904,No,ODI
+30,53,41,3,0,73.17,4,caught,2,Australia,Vadodara,Loss,25-10-2009,ODI # 2913,No,ODI
+10,32,16,1,0,62.5,3,caught,2,Australia,Mohali,Loss,02-11-2009,ODI # 2919,No,ODI
+27,20,19,4,0,142.1,7,bowled,1,Sri Lanka,Rajkot,Won,15-12-2009,ODI # 2932,No,ODI
+54,93,65,7,0,83.07,4,lbw,1,Sri Lanka,Nagpur,Loss,18-12-2009,ODI # 2933,No,ODI
+107,-,114,11,1,93.85,4,caught,2,Sri Lanka,Eden Gardens,Won,24-12-2009,ODI # 2935,No,ODI
+9,19,12,1,0,75,3,caught,1,Sri Lanka,Mirpur,Loss,05-01-2010,ODI # 2938,No,ODI
+91,136,102,7,0,89.21,3,caught,2,Bangladesh,Mirpur,Won,07-01-2010,ODI # 2939,No,ODI
+71,98,68,9,0,104.41,3,not out,2,Sri Lanka,Mirpur,Won,10-01-2010,ODI # 2941,No,ODI
+102,128,95,11,0,107.36,3,not out,2,Bangladesh,Mirpur,Won,11-01-2010,ODI # 2942,No,ODI
+2,6,8,0,0,25,3,caught,1,Sri Lanka,Mirpur,Loss,13-01-2010,ODI # 2943,No,ODI
+31,-,46,1,0,67.39,5,caught,1,South Africa,Jaipur,Won,21-02-2010,ODI # 2961,No,ODI
+57,-,71,4,1,80.28,3,caught,2,South Africa,Ahmedabad,Loss,27-02-2010,ODI # 2963,No,ODI
+0,3,0,0,0,-,3,run out,1,Zimbabwe,Bulawayo,Loss,28-05-2010,ODI # 2981,No,ODI
+82,125,92,4,0,89.13,3,caught,2,Sri Lanka,Bulawayo,Won,30-05-2010,ODI # 2983,No,ODI
+18,28,29,1,0,62.06,3,caught,1,Zimbabwe,Harare,Loss,03-06-2010,ODI # 2986,No,ODI
+68,123,95,5,0,71.57,3,caught,1,Sri Lanka,Harare,Loss,05-06-2010,ODI # 2988,No,ODI
+26,30,21,3,1,123.8,5,not out,2,Zimbabwe,Harare,Won,12-06-2010,T20I # 182,No,T20I
+11,35,22,0,0,50,3,stumped,2,Bangladesh,Dambulla,Won,16-06-2010,ODI # 2993,No,ODI
+18,31,27,1,0,66.66,3,bowled,2,Pakistan,Dambulla,Won,19-06-2010,ODI # 2996,No,ODI
+10,13,14,1,0,71.42,3,caught,1,Sri Lanka,Dambulla,Loss,22-06-2010,ODI # 2999,No,ODI
+28,57,34,4,0,82.35,3,caught,1,Sri Lanka,Dambulla,Won,24-06-2010,ODI # 3001,No,ODI
+0,5,3,0,0,0,3,caught,2,Sri Lanka,Dambulla,Won,16-08-2010,ODI # 3032,No,ODI
+8,22,16,1,0,50,3,caught,1,New Zealand,Dambulla,Won,25-08-2010,ODI # 3039,No,ODI
+37,98,57,5,0,64.91,3,caught,2,Sri Lanka,Dambulla,Loss,28-08-2010,ODI # 3040,No,ODI
+118,193,121,11,1,97.52,3,caught,2,Australia,Visakhapatnam,Won,20-10-2010,ODI # 3060,No,ODI
+105,162,104,10,0,100.96,3,caught,1,New Zealand,Guwahati,Won,28-11-2010,ODI # 3070,No,ODI
+64,78,73,8,0,87.67,3,caught,2,New Zealand,Jaipur,Won,01-12-2010,ODI # 3072,No,ODI
+63,83,70,6,2,90,3,not out,2,New Zealand,Vadodara,Won,04-12-2010,ODI # 3074,No,ODI
+0,3,2,0,0,0,3,caught,2,New Zealand,Bengaluru,Won,07-12-2010,ODI # 3076,No,ODI
+2,10,8,0,0,25,3,caught,2,New Zealand,Chennai,Won,10-12-2010,ODI # 3077,No,ODI
+28,28,19,5,0,147.36,1,bowled,1,South Africa,Durban,Won,09-01-2011,T20I # 196,No,T20I
+54,122,70,2,1,77.14,3,caught,2,South Africa,Durban,Loss,12-01-2011,ODI # 3079,No,ODI
+22,43,34,1,0,64.7,3,run out,1,South Africa,Johannesburg,Won,15-01-2011,ODI # 3080,No,ODI
+28,51,41,5,0,68.29,3,caught,2,South Africa,Cape Town,Won,18-01-2011,ODI # 3082,No,ODI
+87,126,92,7,2,94.56,3,not out,2,South Africa,Gqeberha,Loss,21-01-2011,ODI # 3084,No,ODI
+2,11,6,0,0,33.33,3,caught,2,South Africa,Centurion,Loss,23-01-2011,ODI # 3087,No,ODI
+100,113,83,8,2,120.48,4,not out,1,Bangladesh,Mirpur,Won,19-02-2011,ODI # 3100,No,ODI
+8,12,5,1,0,160,7,bowled,1,England,Bengaluru,Tie,27-02-2011,ODI # 3110,No,ODI
+34,82,53,3,0,64.15,4,run out,2,Ireland,Bengaluru,Won,06-03-2011,ODI # 3121,No,ODI
+12,16,20,2,0,60,5,bowled,2,Netherlands,Delhi,Won,09-03-2011,ODI # 3124,No,ODI
+1,2,3,0,0,33.33,7,caught,1,South Africa,Nagpur,Loss,12-03-2011,ODI # 3128,No,ODI
+59,128,76,5,0,77.63,3,bowled,1,West Indies,Chennai,Won,20-03-2011,ODI # 3141,No,ODI
+24,38,33,1,0,72.72,4,caught,2,Australia,Ahmedabad,Won,24-03-2011,ODI # 3143,No,ODI
+9,20,21,0,0,42.85,4,caught,1,Pakistan,Mohali,Won,30-03-2011,ODI # 3147,No,ODI
+35,69,49,4,0,71.42,4,caught,2,Sri Lanka,Wankhede,Won,02-04-2011,ODI # 3148,No,ODI
+14,15,12,2,0,116.66,3,caught,1,West Indies,Port of Spain,Won,04-06-2011,T20I # 200,No,T20I
+2,5,8,0,0,25,3,caught,2,West Indies,Port of Spain,Won,06-06-2011,ODI # 3159,No,ODI
+81,118,103,6,1,78.64,3,caught,2,West Indies,Port of Spain,Won,08-06-2011,ODI # 3160,No,ODI
+0,1,1,0,0,0,3,lbw,2,West Indies,North Sound,Won,11-06-2011,ODI # 3161,No,ODI
+22,68,33,1,0,66.66,3,stumped,2,West Indies,North Sound,Loss,13-06-2011,ODI # 3162,No,ODI
+94,135,104,10,0,90.38,3,run out,1,West Indies,Kingston,Loss,16-06-2011,ODI # 3163,No,ODI
+4,13,10,1,0,40,5,caught,1,West Indies,Kingston,Won,20-06-2011,Test # 1997,No,Test
+15,72,54,2,0,27.77,5,caught,3,West Indies,Kingston,,20-06-2011,Test # 1997,No,Test
+0,1,2,0,0,0,5,caught,1,West Indies,Bridgetown,Draw,28-06-2011,Test # 1998,No,Test
+27,118,107,1,1,25.23,5,caught,3,West Indies,Bridgetown,,28-06-2011,Test # 1998,No,Test
+30,62,53,2,0,56.6,5,caught,2,West Indies,Roseau,Draw,06-07-2011,Test # 1999,No,Test
+4,5,5,0,0,80,4,caught,1,England,Manchester,Loss,31-08-2011,T20I # 204,No,T20I
+55,92,73,4,0,75.34,4,bowled,1,England,Chester-le-Street,NR,03-09-2011,ODI # 3186,No,ODI
+9,9,9,0,0,100,4,caught,1,England,Southampton,Loss,06-09-2011,ODI # 3187,No,ODI
+7,18,18,0,0,38.88,4,caught,1,England,The Oval,Loss,09-09-2011,ODI # 3189,No,ODI
+16,40,36,1,0,44.44,4,caught,1,England,Lord's,Tie,11-09-2011,ODI # 3191,No,ODI
+107,102,93,9,1,115.05,4,hit wicket,1,England,Cardiff,Loss,16-09-2011,ODI # 3195,No,ODI
+37,70,63,0,0,58.73,4,caught,1,England,Hyderabad (Deccan),Won,14-10-2011,ODI # 3199,No,ODI
+112,134,98,16,0,114.28,4,not out,2,England,Delhi,Won,17-10-2011,ODI # 3201,No,ODI
+35,42,30,5,0,116.66,4,lbw,2,England,Mohali,Won,20-10-2011,ODI # 3205,No,ODI
+86,-,99,11,0,86.86,4,not out,2,England,Wankhede,Won,23-10-2011,ODI # 3207,No,ODI
+0,5,5,0,0,0,3,bowled,1,England,Eden Gardens,Won,25-10-2011,ODI # 3210,No,ODI
+15,21,16,3,0,93.75,3,caught,1,England,Eden Gardens,Loss,29-10-2011,T20I # 214,No,T20I
+52,154,111,5,0,46.84,6,caught,2,West Indies,Wankhede,Draw,22-11-2011,Test # 2019,No,Test
+63,136,114,3,1,55.26,6,caught,4,West Indies,Wankhede,,22-11-2011,Test # 2019,No,Test
+3,13,6,0,0,50,4,bowled,2,West Indies,Cuttack,Won,29-11-2011,ODI # 3217,No,ODI
+117,154,123,14,0,95.12,4,caught,2,West Indies,Visakhapatnam,Won,02-12-2011,ODI # 3219,No,ODI
+20,21,30,3,0,66.66,4,lbw,2,West Indies,Ahmedabad,Loss,05-12-2011,ODI # 3221,No,ODI
+23,15,11,3,0,209.09,6,not out,1,West Indies,Indore,Won,08-12-2011,ODI # 3223,No,ODI
+80,99,85,5,0,94.11,5,caught,1,West Indies,Chennai,Won,11-12-2011,ODI # 3224,No,ODI
+11,28,21,1,0,52.38,7,caught,2,Australia,Melbourne,Loss,26-12-2011,Test # 2025,No,Test
+0,3,1,0,0,0,6,lbw,4,Australia,Melbourne,,26-12-2011,Test # 2025,No,Test
+23,50,41,3,0,56.09,6,caught,1,Australia,Sydney,Loss,03-01-2012,Test # 2027,No,Test
+9,35,24,2,0,37.5,6,lbw,3,Australia,Sydney,,03-01-2012,Test # 2027,No,Test
+44,107,81,6,0,54.32,6,caught,1,Australia,Perth,Loss,13-01-2012,Test # 2029,No,Test
+75,191,136,9,0,55.14,6,caught,3,Australia,Perth,,13-01-2012,Test # 2029,No,Test
+116,237,213,11,1,54.46,6,lbw,2,Australia,Adelaide,Loss,24-01-2012,Test # 2031,No,Test
+22,96,62,2,0,35.48,6,run out,4,Australia,Adelaide,,24-01-2012,Test # 2031,No,Test
+22,30,21,0,1,104.76,3,caught,2,Australia,Sydney,Loss,01-02-2012,T20I # 217,No,T20I
+31,29,24,3,0,129.16,3,caught,2,Australia,Melbourne,Won,03-02-2012,T20I # 218,No,T20I
+31,30,34,3,0,91.17,3,caught,2,Australia,Melbourne,Loss,05-02-2012,ODI # 3231,No,ODI
+77,156,94,8,1,81.91,3,run out,2,Sri Lanka,Perth,Won,08-02-2012,ODI # 3233,No,ODI
+18,41,28,1,0,64.28,3,caught,2,Australia,Adelaide,Won,12-02-2012,ODI # 3237,No,ODI
+15,32,25,1,0,60,3,lbw,2,Sri Lanka,Adelaide,Tie,14-02-2012,ODI # 3239,No,ODI
+12,44,25,0,0,48,3,caught,2,Australia,Brisbane,Loss,19-02-2012,ODI # 3244,No,ODI
+66,116,83,2,0,79.51,4,caught,2,Sri Lanka,Brisbane,Loss,21-02-2012,ODI # 3246,No,ODI
+21,36,27,2,0,77.77,4,caught,2,Australia,Sydney,Loss,26-02-2012,ODI # 3250,No,ODI
+133,133,86,16,2,154.65,4,not out,2,Sri Lanka,Hobart,Won,28-02-2012,ODI # 3251,No,ODI
+108,148,120,7,0,90,3,caught,1,Sri Lanka,Mirpur,Won,13-03-2012,ODI # 3259,No,ODI
+66,126,82,5,0,80.48,3,bowled,1,Bangladesh,Mirpur,Loss,16-03-2012,ODI # 3261,No,ODI
+183,211,148,22,1,123.64,3,caught,2,Pakistan,Mirpur,Won,18-03-2012,ODI # 3263,No,ODI
+106,158,113,9,0,93.8,3,caught,1,Sri Lanka,Hambantota,Won,21-07-2012,ODI # 3291,No,ODI
+1,6,5,0,0,20,3,caught,1,Sri Lanka,Hambantota,Loss,24-07-2012,ODI # 3292,No,ODI
+38,80,65,2,0,58.46,3,caught,2,Sri Lanka,Colombo (RPS),Won,28-07-2012,ODI # 3293,No,ODI
+128,187,119,12,1,107.56,3,not out,2,Sri Lanka,Colombo (RPS),Won,31-07-2012,ODI # 3294,No,ODI
+23,42,35,2,0,65.71,3,lbw,1,Sri Lanka,Pallekele,Won,04-08-2012,ODI # 3295,No,ODI
+68,65,48,11,1,141.66,3,caught,1,Sri Lanka,Pallekele,Won,07-08-2012,T20I # 255,No,T20I
+58,143,107,8,0,54.2,5,caught,1,New Zealand,Hyderabad (Deccan),Won,23-08-2012,Test # 2054,No,Test
+103,284,193,14,1,53.36,5,lbw,2,New Zealand,Bengaluru,Won,31-08-2012,Test # 2055,No,Test
+51,130,82,9,0,62.19,5,not out,4,New Zealand,Bengaluru,,31-08-2012,Test # 2055,No,Test
+70,67,41,10,1,170.73,2,caught,2,New Zealand,Chennai,Loss,11-09-2012,T20I # 261,No,T20I
+50,60,39,4,2,128.2,3,caught,1,Afghanistan,Colombo (RPS),Won,19-09-2012,T20I # 265,No,T20I
+40,33,32,6,0,125,3,caught,1,England,Colombo (RPS),Won,23-09-2012,T20I # 272,No,T20I
+15,18,13,2,0,115.38,3,caught,1,Australia,Colombo (RPS),Loss,28-09-2012,T20I # 278,No,T20I
+78,61,61,8,2,127.86,3,not out,2,Pakistan,Colombo (RPS),Won,30-09-2012,T20I # 282,No,T20I
+2,5,6,0,0,33.33,3,caught,1,South Africa,Colombo (RPS),Won,02-10-2012,T20I # 286,No,T20I
+19,70,67,3,0,28.35,5,bowled,1,England,Ahmedabad,Won,15-11-2012,Test # 2058,No,Test
+14,17,21,3,0,66.66,3,not out,4,England,Ahmedabad,,15-11-2012,Test # 2058,No,Test
+19,65,55,3,0,34.54,5,caught,1,England,Wankhede,Loss,23-11-2012,Test # 2062,No,Test
+7,16,13,1,0,53.84,5,caught,3,England,Wankhede,,23-11-2012,Test # 2062,No,Test
+6,31,24,1,0,25,5,caught,1,England,Eden Gardens,Loss,05-12-2012,Test # 2065,No,Test
+20,86,60,3,0,33.33,5,caught,3,England,Eden Gardens,,05-12-2012,Test # 2065,No,Test
+103,356,295,11,0,34.91,5,lbw,2,England,Nagpur,Draw,13-12-2012,Test # 2066,No,Test
+21,35,17,2,0,123.52,3,bowled,2,England,Pune,Won,20-12-2012,T20I # 292,No,T20I
+38,25,20,7,0,190,3,lbw,1,England,Wankhede,Loss,22-12-2012,T20I # 294,No,T20I
+9,15,11,1,0,81.81,3,caught,1,Pakistan,Bengaluru,Loss,25-12-2012,T20I # 296,No,T20I
+27,31,22,3,0,122.72,3,run out,1,Pakistan,Ahmedabad,Won,28-12-2012,T20I # 298,No,T20I
+0,9,5,0,0,0,3,bowled,1,Pakistan,Chennai,Loss,30-12-2012,ODI # 3314,No,ODI
+6,12,9,1,0,66.66,3,caught,2,Pakistan,Eden Gardens,Loss,03-01-2013,ODI # 3315,No,ODI
+7,25,17,1,0,41.17,3,caught,1,Pakistan,Delhi,Won,06-01-2013,ODI # 3316,No,ODI
+15,45,22,1,0,68.18,3,caught,2,England,Rajkot,Loss,11-01-2013,ODI # 3318,No,ODI
+37,86,54,1,1,68.51,3,caught,1,England,Kochi,Won,15-01-2013,ODI # 3320,No,ODI
+77,110,79,9,2,97.46,3,not out,2,England,Ranchi,Won,19-01-2013,ODI # 3322,No,ODI
+26,44,33,3,0,78.78,3,caught,2,England,Mohali,Won,23-01-2013,ODI # 3327,No,ODI
+0,1,1,0,0,0,3,caught,1,England,Dharamsala,Loss,27-01-2013,ODI # 3329,No,ODI
+107,266,206,15,1,51.94,5,caught,2,Australia,Chennai,Won,22-02-2013,Test # 2074,No,Test
+34,119,92,3,0,36.95,5,caught,2,Australia,Hyderabad (Deccan),Won,02-03-2013,Test # 2076,No,Test
+67,157,129,7,1,51.93,5,not out,2,Australia,Mohali,Won,14-03-2013,Test # 2081,No,Test
+34,80,61,6,0,55.73,3,caught,4,Australia,Mohali,,14-03-2013,Test # 2081,No,Test
+1,11,8,0,0,12.5,3,lbw,2,Australia,Delhi,Won,22-03-2013,Test # 2085,No,Test
+41,76,60,4,0,68.33,3,lbw,4,Australia,Delhi,,22-03-2013,Test # 2085,No,Test
+31,46,41,2,0,75.6,3,caught,1,South Africa,Cardiff,Won,06-06-2013,ODI # 3363,No,ODI
+22,18,18,4,0,122.22,3,bowled,2,West Indies,The Oval,Won,11-06-2013,ODI # 3368,No,ODI
+22,36,27,3,0,81.48,3,not out,2,Pakistan,Birmingham,Won,15-06-2013,ODI # 3372,No,ODI
+58,80,64,4,1,90.62,3,not out,2,Sri Lanka,Cardiff,Won,20-06-2013,ODI # 3376,No,ODI
+43,66,34,4,1,126.47,3,caught,1,England,Birmingham,Won,23-06-2013,ODI # 3377,No,ODI
+11,19,21,0,1,52.38,3,caught,1,West Indies,Kingston,Loss,30-06-2013,ODI # 3380,No,ODI
+2,6,5,0,0,40,4,caught,2,Sri Lanka,Kingston,Loss,02-07-2013,ODI # 3382,Yes,ODI
+102,120,83,13,2,122.89,3,caught,1,West Indies,Port of Spain,Won,05-07-2013,ODI # 3383,Yes,ODI
+31,62,52,4,0,59.61,3,lbw,1,Sri Lanka,Port of Spain,Won,09-07-2013,ODI # 3387,Yes,ODI
+2,8,5,0,0,40,3,caught,2,Sri Lanka,Port of Spain,Won,11-07-2013,ODI # 3388,No,ODI
+115,133,108,13,1,106.48,3,caught,2,Zimbabwe,Harare,Won,24-07-2013,ODI # 3395,Yes,ODI
+14,35,18,2,0,77.77,3,caught,1,Zimbabwe,Harare,Won,26-07-2013,ODI # 3397,Yes,ODI
+68,128,88,5,1,77.27,3,not out,2,Zimbabwe,Harare,Won,28-07-2013,ODI # 3399,Yes,ODI
+29,26,22,2,1,131.81,4,caught,2,Australia,Rajkot,Won,10-10-2013,T20I # 331,No,T20I
+61,121,85,6,0,71.76,3,lbw,2,Australia,Pune,Loss,13-10-2013,ODI # 3419,No,ODI
+100,82,52,8,7,192.3,3,not out,2,Australia,Jaipur,Won,16-10-2013,ODI # 3420,No,ODI
+68,121,73,9,0,93.15,3,caught,1,Australia,Mohali,Loss,19-10-2013,ODI # 3421,No,ODI
+115,104,66,18,1,174.24,3,not out,2,Australia,Nagpur,Won,30-10-2013,ODI # 3424,No,ODI
+0,4,3,0,0,0,3,run out,1,Australia,Bengaluru,Won,02-11-2013,ODI # 3428,No,ODI
+3,13,5,0,0,60,5,caught,2,West Indies,Eden Gardens,Won,06-11-2013,Test # 2101,No,Test
+57,80,78,5,0,73.07,5,caught,2,West Indies,Wankhede,Won,14-11-2013,Test # 2102,No,Test
+86,120,84,9,2,102.38,3,caught,2,West Indies,Kochi,Won,21-11-2013,ODI # 3436,No,ODI
+99,159,100,9,0,99,3,caught,1,West Indies,Visakhapatnam,Loss,24-11-2013,ODI # 3437,No,ODI
+19,19,18,3,0,105.55,3,caught,2,West Indies,Kanpur,Won,27-11-2013,ODI # 3439,No,ODI
+31,41,35,5,0,88.57,3,caught,2,South Africa,Johannesburg,Loss,05-12-2013,ODI # 3442,No,ODI
+0,7,5,0,0,0,3,caught,2,South Africa,Durban,Loss,08-12-2013,ODI # 3443,No,ODI
+119,257,181,18,0,65.74,4,caught,1,South Africa,Johannesburg,Draw,18-12-2013,Test # 2108,No,Test
+96,254,193,9,0,49.74,4,caught,3,South Africa,Johannesburg,,18-12-2013,Test # 2108,No,Test
+46,114,87,5,0,52.87,4,caught,1,South Africa,Durban,Loss,26-12-2013,Test # 2111,No,Test
+11,26,27,1,0,40.74,4,caught,3,South Africa,Durban,,26-12-2013,Test # 2111,No,Test
+123,179,111,11,2,110.81,3,caught,2,New Zealand,Napier,Loss,19-01-2014,ODI # 3456,No,ODI
+78,88,65,7,2,120,3,caught,2,New Zealand,Hamilton,Loss,22-01-2014,ODI # 3458,No,ODI
+6,27,20,1,0,30,3,caught,2,New Zealand,Auckland,Tie,25-01-2014,ODI # 3462,No,ODI
+2,14,10,0,0,20,2,caught,1,New Zealand,Hamilton,Loss,28-01-2014,ODI # 3465,No,ODI
+82,129,78,7,3,105.12,3,caught,2,New Zealand,Wellington,Loss,31-01-2014,ODI # 3467,No,ODI
+4,17,13,1,0,30.76,4,caught,2,New Zealand,Auckland,Loss,06-02-2014,Test # 2118,No,Test
+67,131,102,12,0,65.68,4,caught,4,New Zealand,Auckland,,06-02-2014,Test # 2118,No,Test
+38,131,93,4,0,40.86,5,caught,2,New Zealand,Wellington,Draw,14-02-2014,Test # 2120,No,Test
+105,195,135,15,1,77.77,4,not out,4,New Zealand,Wellington,,14-02-2014,Test # 2120,No,Test
+136,157,122,16,2,111.47,3,bowled,2,Bangladesh,Fatullah,Won,26-02-2014,ODI # 3474,Yes,ODI
+48,66,51,4,1,94.11,3,bowled,1,Sri Lanka,Fatullah,Loss,28-02-2014,ODI # 3476,Yes,ODI
+5,29,11,0,0,45.45,3,caught,1,Pakistan,Mirpur,Loss,02-03-2014,ODI # 3479,Yes,ODI
+36,45,32,4,1,112.5,3,not out,2,Pakistan,Mirpur,Won,21-03-2014,T20I # 378,No,T20I
+54,51,41,5,1,131.7,3,bowled,2,West Indies,Mirpur,Won,23-03-2014,T20I # 382,No,T20I
+57,66,50,3,1,114,3,not out,2,Bangladesh,Mirpur,Won,28-03-2014,T20I # 389,No,T20I
+23,23,22,2,1,104.54,3,caught,1,Australia,Mirpur,Won,30-03-2014,T20I # 393,No,T20I
+72,67,44,5,2,163.63,3,not out,2,South Africa,Mirpur,Won,04-04-2014,T20I # 399,No,T20I
+77,75,58,5,4,132.75,3,run out,1,Sri Lanka,Mirpur,Loss,06-04-2014,T20I # 400,No,T20I
+1,6,8,0,0,12.5,4,caught,1,England,Nottingham,Draw,09-07-2014,Test # 2128,No,Test
+8,39,29,1,0,27.58,4,lbw,3,England,Nottingham,,09-07-2014,Test # 2128,No,Test
+25,39,34,4,0,73.52,4,caught,1,England,Lord's,Won,17-07-2014,Test # 2130,No,Test
+0,1,1,0,0,0,4,bowled,3,England,Lord's,,17-07-2014,Test # 2130,No,Test
+39,119,75,3,0,52,4,caught,2,England,Southampton,Loss,27-07-2014,Test # 2132,No,Test
+28,77,56,3,0,50,4,caught,4,England,Southampton,,27-07-2014,Test # 2132,No,Test
+0,3,2,0,0,0,4,caught,1,England,Manchester,Loss,07-08-2014,Test # 2134,No,Test
+7,15,11,1,0,63.63,4,caught,3,England,Manchester,,07-08-2014,Test # 2134,No,Test
+6,34,18,1,0,33.33,4,lbw,1,England,The Oval,Loss,15-08-2014,Test # 2137,No,Test
+20,80,54,2,0,37.03,4,caught,3,England,The Oval,,15-08-2014,Test # 2137,No,Test
+0,1,3,0,0,0,3,caught,1,England,Cardiff,Won,27-08-2014,ODI # 3517,No,ODI
+40,67,50,2,1,80,3,caught,2,England,Nottingham,Won,30-08-2014,ODI # 3520,No,ODI
+1,9,3,0,0,33.33,3,not out,2,England,Birmingham,Won,02-09-2014,ODI # 3523,No,ODI
+13,25,21,2,0,61.9,3,caught,2,England,Leeds,Loss,05-09-2014,ODI # 3525,No,ODI
+66,54,41,9,1,160.97,3,caught,2,England,Birmingham,Loss,07-09-2014,T20I # 405,No,T20I
+2,7,5,0,0,40,3,caught,2,West Indies,Kochi,Loss,08-10-2014,ODI # 3531,No,ODI
+62,124,78,5,0,79.48,4,caught,1,West Indies,Delhi,Won,11-10-2014,ODI # 3533,No,ODI
+127,164,114,13,3,111.4,3,run out,1,West Indies,Dharamsala,Won,17-10-2014,ODI # 3535,No,ODI
+22,34,21,2,0,104.76,4,caught,1,Sri Lanka,Cuttack,Won,02-11-2014,ODI # 3539,Yes,ODI
+49,-,44,2,2,111.36,4,caught,2,Sri Lanka,Ahmedabad,Won,06-11-2014,ODI # 3540,Yes,ODI
+53,-,61,4,1,86.88,4,caught,2,Sri Lanka,Hyderabad (Deccan),Won,09-11-2014,ODI # 3543,Yes,ODI
+66,109,64,6,0,103.12,4,run out,1,Sri Lanka,Eden Gardens,Won,13-11-2014,ODI # 3544,Yes,ODI
+139,192,126,12,3,110.31,4,not out,2,Sri Lanka,Ranchi,Won,16-11-2014,ODI # 3547,Yes,ODI
+115,267,184,12,0,62.5,4,caught,2,Australia,Adelaide,Loss,09-12-2014,Test # 2148,Yes,Test
+141,279,175,16,1,80.57,4,caught,4,Australia,Adelaide,,09-12-2014,Test # 2148,Yes,Test
+19,50,27,1,0,70.37,4,caught,1,Australia,Brisbane,Loss,17-12-2014,Test # 2149,No,Test
+1,14,11,0,0,9.09,4,bowled,3,Australia,Brisbane,,17-12-2014,Test # 2149,No,Test
+169,380,272,18,0,62.13,4,caught,2,Australia,Melbourne,Draw,26-12-2014,Test # 2152,No,Test
+54,134,99,7,0,54.54,4,caught,4,Australia,Melbourne,,26-12-2014,Test # 2152,No,Test
+147,315,230,20,0,63.91,4,caught,2,Australia,Sydney,Draw,06-01-2015,Test # 2156,Yes,Test
+46,123,95,3,0,48.42,4,caught,4,Australia,Sydney,,06-01-2015,Test # 2156,Yes,Test
+9,24,16,0,0,56.25,4,caught,1,Australia,Melbourne,Loss,18-01-2015,ODI # 3582,No,ODI
+4,13,8,0,0,50,4,caught,1,England,Brisbane,Loss,20-01-2015,ODI # 3586,No,ODI
+3,8,9,0,0,33.33,4,not out,1,Australia,Sydney,NR,26-01-2015,ODI # 3592,No,ODI
+8,26,19,0,0,42.1,3,caught,1,England,Perth,Loss,30-01-2015,ODI # 3595,No,ODI
+107,168,126,8,0,84.92,3,caught,1,Pakistan,Adelaide,Won,15-02-2015,ODI # 3602,No,ODI
+46,106,60,3,0,76.66,3,caught,1,South Africa,Melbourne,Won,22-02-2015,ODI # 3610,No,ODI
+33,49,41,5,0,80.48,3,not out,2,U.A.E.,Perth,Won,28-02-2015,ODI # 3618,No,ODI
+33,51,36,5,0,91.66,3,caught,2,West Indies,Perth,Won,06-03-2015,ODI # 3625,No,ODI
+44,64,42,4,1,104.76,3,not out,2,Ireland,Hamilton,Won,10-03-2015,ODI # 3631,No,ODI
+38,71,48,4,0,79.16,3,bowled,2,Zimbabwe,Auckland,Won,14-03-2015,ODI # 3636,No,ODI
+3,6,8,0,0,37.5,3,caught,1,Bangladesh,Melbourne,Won,19-03-2015,ODI # 3641,No,ODI
+1,11,13,0,0,7.69,3,caught,2,Australia,Sydney,Loss,26-03-2015,ODI # 3645,No,ODI
+14,17,22,2,0,63.63,4,bowled,1,Bangladesh,Fatullah,Draw,10-06-2015,Test # 2165,Yes,Test
+1,9,4,0,0,25,3,caught,2,Bangladesh,Mirpur,Loss,18-06-2015,ODI # 3658,No,ODI
+23,57,27,3,1,85.18,3,lbw,1,Bangladesh,Mirpur,Loss,21-06-2015,ODI # 3660,No,ODI
+25,55,35,1,0,71.42,3,bowled,1,Bangladesh,Mirpur,Won,24-06-2015,ODI # 3661,No,ODI
+103,266,191,11,0,53.92,4,lbw,2,Sri Lanka,Galle,Loss,12-08-2015,Test # 2176,Yes,Test
+3,14,10,0,0,30,5,caught,4,Sri Lanka,Galle,,12-08-2015,Test # 2176,Yes,Test
+78,178,107,8,1,72.89,4,caught,1,Sri Lanka,Colombo (PSS),Won,20-08-2015,Test # 2177,Yes,Test
+10,33,19,0,0,52.63,4,lbw,3,Sri Lanka,Colombo (PSS),,20-08-2015,Test # 2177,Yes,Test
+18,96,60,3,0,30,4,caught,1,Sri Lanka,Colombo (SSC),Won,28-08-2015,Test # 2179,Yes,Test
+21,87,63,2,0,33.33,4,caught,3,Sri Lanka,Colombo (SSC),,28-08-2015,Test # 2179,Yes,Test
+43,58,27,1,3,159.25,3,caught,1,South Africa,Dharamsala,Loss,02-10-2015,T20I # 456,No,T20I
+1,3,1,0,0,100,3,run out,1,South Africa,Cuttack,Loss,05-10-2015,T20I # 457,No,T20I
+11,29,18,0,0,61.11,4,caught,2,South Africa,Kanpur,Loss,11-10-2015,ODI # 3689,No,ODI
+12,24,18,0,0,66.66,4,run out,1,South Africa,Indore,Won,14-10-2015,ODI # 3692,No,ODI
+77,155,99,5,0,77.77,3,caught,2,South Africa,Rajkot,Loss,18-10-2015,ODI # 3695,No,ODI
+138,202,140,6,5,98.57,3,caught,1,South Africa,Chennai,Won,22-10-2015,ODI # 3698,No,ODI
+7,11,6,0,1,116.66,3,caught,2,South Africa,Wankhede,Loss,25-10-2015,ODI # 3700,No,ODI
+1,5,4,0,0,25,4,caught,1,South Africa,Mohali,Won,05-11-2015,Test # 2186,Yes,Test
+29,92,71,4,0,40.84,4,caught,3,South Africa,Mohali,,05-11-2015,Test # 2186,Yes,Test
+22,73,55,2,0,40,4,caught,1,South Africa,Nagpur,Won,25-11-2015,Test # 2189,Yes,Test
+16,49,30,2,0,53.33,4,caught,3,South Africa,Nagpur,,25-11-2015,Test # 2189,Yes,Test
+44,74,62,7,0,70.96,4,caught,1,South Africa,Delhi,Won,03-12-2015,Test # 2191,Yes,Test
+88,259,165,10,0,53.33,5,lbw,3,South Africa,Delhi,,03-12-2015,Test # 2191,Yes,Test
+91,148,97,9,1,93.81,3,caught,1,Australia,Perth,Loss,12-01-2016,ODI # 3723,No,ODI
+59,84,67,4,0,88.05,3,run out,1,Australia,Brisbane,Loss,15-01-2016,ODI # 3724,No,ODI
+117,174,117,7,2,100,3,caught,1,Australia,Melbourne,Loss,17-01-2016,ODI # 3725,No,ODI
+106,131,92,11,1,115.21,3,caught,2,Australia,Canberra,Loss,20-01-2016,ODI # 3726,No,ODI
+8,11,11,1,0,72.72,3,caught,2,Australia,Sydney,Won,23-01-2016,ODI # 3727,No,ODI
+90,71,55,9,2,163.63,3,not out,1,Australia,Adelaide,Won,26-01-2016,T20I # 485,No,T20I
+59,44,33,7,1,178.78,3,not out,1,Australia,Melbourne,Won,29-01-2016,T20I # 486,No,T20I
+50,49,36,2,1,138.88,3,bowled,2,Australia,Sydney,Won,31-01-2016,T20I # 489,No,T20I
+7,13,12,1,0,58.33,3,caught,1,Bangladesh,Mirpur,Won,24-02-2016,T20I # 509,No,T20I
+49,71,51,7,0,96.07,3,lbw,2,Pakistan,Mirpur,Won,27-02-2016,T20I # 512,No,T20I
+56,85,47,7,0,119.14,3,not out,2,Sri Lanka,Mirpur,Won,01-03-2016,T20I # 515,No,T20I
+41,62,28,5,0,146.42,3,not out,2,Bangladesh,Mirpur,Won,06-03-2016,T20I # 521,No,T20I
+23,-,27,2,0,85.18,3,caught,2,New Zealand,Nagpur,Loss,15-03-2016,T20I # 535,No,T20I
+55,66,37,7,1,148.64,3,not out,2,Pakistan,Eden Gardens,Won,19-03-2016,T20I # 541,No,T20I
+24,37,24,0,1,100,3,bowled,1,Bangladesh,Bengaluru,Won,23-03-2016,T20I # 547,No,T20I
+82,78,51,9,2,160.78,3,not out,2,Australia,Mohali,Won,27-03-2016,T20I # 553,No,T20I
+89,63,47,11,1,189.36,3,not out,1,West Indies,Wankhede,Loss,31-03-2016,T20I # 556,No,T20I
+200,375,283,24,0,70.67,4,bowled,1,West Indies,North Sound,Won,21-07-2016,Test # 2207,Yes,Test
+44,144,90,4,1,48.88,4,caught,2,West Indies,Kingston,Draw,30-07-2016,Test # 2211,Yes,Test
+3,17,8,0,0,37.5,3,caught,1,West Indies,Gros Islet,Won,09-08-2016,Test # 2215,Yes,Test
+4,21,17,0,0,23.52,3,lbw,3,West Indies,Gros Islet,,09-08-2016,Test # 2215,Yes,Test
+16,8,9,3,0,177.77,3,caught,2,West Indies,Lauderhill,Loss,27-08-2016,T20I # 562,No,T20I
+9,12,10,2,0,90,4,caught,1,New Zealand,Kanpur,Won,22-09-2016,Test # 2221,Yes,Test
+18,45,40,3,0,45,4,caught,3,New Zealand,Kanpur,,22-09-2016,Test # 2221,Yes,Test
+9,42,28,1,0,32.14,4,caught,1,New Zealand,Eden Gardens,Won,30-09-2016,Test # 2222,Yes,Test
+45,82,65,7,0,69.23,4,lbw,3,New Zealand,Eden Gardens,,30-09-2016,Test # 2222,Yes,Test
+211,536,366,20,0,57.65,4,lbw,1,New Zealand,Indore,Won,08-10-2016,Test # 2223,Yes,Test
+17,36,28,1,0,60.71,4,lbw,3,New Zealand,Indore,,08-10-2016,Test # 2223,Yes,Test
+85,109,81,9,1,104.93,3,not out,2,New Zealand,Dharamsala,Won,16-10-2016,ODI # 3796,No,ODI
+9,18,13,1,0,69.23,3,caught,2,New Zealand,Delhi,Loss,20-10-2016,ODI # 3797,No,ODI
+154,202,134,16,1,114.92,3,not out,2,New Zealand,Mohali,Won,23-10-2016,ODI # 3798,No,ODI
+45,64,51,2,1,88.23,3,caught,2,New Zealand,Ranchi,Loss,26-10-2016,ODI # 3799,No,ODI
+65,152,76,2,1,85.52,3,caught,1,New Zealand,Visakhapatnam,Won,29-10-2016,ODI # 3800,No,ODI
+40,135,95,5,0,42.1,4,hit wicket,2,England,Rajkot,Draw,09-11-2016,Test # 2232,Yes,Test
+49,129,98,6,0,50,4,not out,4,England,Rajkot,,09-11-2016,Test # 2232,Yes,Test
+167,401,267,18,0,62.54,4,caught,1,England,Visakhapatnam,Won,17-11-2016,Test # 2235,Yes,Test
+81,172,109,8,0,74.31,4,caught,3,England,Visakhapatnam,,17-11-2016,Test # 2235,Yes,Test
+62,161,127,9,0,48.81,4,caught,2,England,Mohali,Won,26-11-2016,Test # 2238,Yes,Test
+6,11,11,0,0,54.54,4,not out,4,England,Mohali,,26-11-2016,Test # 2238,Yes,Test
+235,515,340,25,1,69.11,4,caught,2,England,Wankhede,Won,08-12-2016,Test # 2239,Yes,Test
+15,44,29,1,0,51.72,4,caught,2,England,Chennai,Won,16-12-2016,Test # 2241,Yes,Test
+122,147,105,8,5,116.19,3,caught,2,England,Pune,Won,15-01-2017,ODI # 3819,Yes,ODI
+8,6,5,2,0,160,3,caught,1,England,Cuttack,Won,19-01-2017,ODI # 3821,Yes,ODI
+55,81,63,8,0,87.3,3,caught,2,England,Eden Gardens,Loss,22-01-2017,ODI # 3824,Yes,ODI
+29,34,26,4,0,111.53,1,caught,1,England,Kanpur,Loss,26-01-2017,T20I # 592,Yes,T20I
+21,17,15,2,1,140,1,caught,1,England,Nagpur,Won,29-01-2017,T20I # 593,Yes,T20I
+2,6,4,0,0,50,1,run out,1,England,Bengaluru,Won,01-02-2017,T20I # 594,Yes,T20I
+204,295,246,24,0,82.92,4,lbw,1,Bangladesh,Hyderabad (Deccan),Won,09-02-2017,Test # 2249,Yes,Test
+38,51,40,2,1,95,4,caught,3,Bangladesh,Hyderabad (Deccan),,09-02-2017,Test # 2249,Yes,Test
+0,2,2,0,0,0,4,caught,2,Australia,Pune,Loss,23-02-2017,Test # 2250,Yes,Test
+13,33,37,1,0,35.13,4,bowled,4,Australia,Pune,,23-02-2017,Test # 2250,Yes,Test
+12,25,17,2,0,70.58,4,lbw,1,Australia,Bengaluru,Won,04-03-2017,Test # 2251,Yes,Test
+15,34,25,1,0,60,4,lbw,3,Australia,Bengaluru,,04-03-2017,Test # 2251,Yes,Test
+6,38,23,0,0,26.08,4,caught,2,Australia,Ranchi,Draw,16-03-2017,Test # 2256,Yes,Test
+81,108,68,6,3,119.11,3,not out,1,Pakistan,Birmingham,Won,04-06-2017,ODI # 3878,Yes,ODI
+0,5,5,0,0,0,3,caught,1,Sri Lanka,The Oval,Loss,08-06-2017,ODI # 3882,Yes,ODI
+76,136,101,7,1,75.24,3,not out,2,South Africa,The Oval,Won,11-06-2017,ODI # 3886,Yes,ODI
+96,96,78,13,0,123.07,3,not out,2,Bangladesh,Birmingham,Won,15-06-2017,ODI # 3891,Yes,ODI
+5,11,9,0,0,55.55,3,caught,2,Pakistan,The Oval,Loss,18-06-2017,ODI # 3894,Yes,ODI
+32,-,47,1,0,68.08,3,not out,1,West Indies,Port of Spain,NR,23-06-2017,ODI # 3895,Yes,ODI
+87,-,66,4,4,131.81,3,caught,1,West Indies,Port of Spain,Won,25-06-2017,ODI # 3896,Yes,ODI
+11,-,22,2,0,50,3,caught,1,West Indies,North Sound,Won,30-06-2017,ODI # 3898,Yes,ODI
+3,-,12,0,0,25,3,caught,2,West Indies,North Sound,Loss,02-07-2017,ODI # 3900,Yes,ODI
+111,-,115,12,2,96.52,3,not out,2,West Indies,Kingston,Won,06-07-2017,ODI # 3902,Yes,ODI
+39,-,22,7,1,177.27,1,caught,1,West Indies,Kingston,Loss,09-07-2017,T20I # 617,Yes,T20I
+3,15,8,0,0,37.5,4,caught,1,Sri Lanka,Galle,Won,26-07-2017,Test # 2265,Yes,Test
+103,158,136,5,1,75.73,4,not out,3,Sri Lanka,Galle,,26-07-2017,Test # 2265,Yes,Test
+13,31,29,2,0,44.82,4,caught,1,Sri Lanka,Colombo (SSC),Won,03-08-2017,Test # 2267,Yes,Test
+42,119,84,3,0,50,4,caught,1,Sri Lanka,Pallekele,Won,12-08-2017,Test # 2269,Yes,Test
+82,-,70,10,1,117.14,3,not out,2,Sri Lanka,Dambulla,Won,20-08-2017,ODI # 3905,Yes,ODI
+4,-,2,1,0,200,5,bowled,2,Sri Lanka,Pallekele,Won,24-08-2017,ODI # 3906,Yes,ODI
+3,-,11,0,0,27.27,3,caught,2,Sri Lanka,Pallekele,Won,27-08-2017,ODI # 3907,Yes,ODI
+131,-,96,17,2,136.45,3,caught,1,Sri Lanka,Colombo (RPS),Won,31-08-2017,ODI # 3908,Yes,ODI
+110,-,116,9,0,94.82,3,not out,2,Sri Lanka,Colombo (RPS),Won,03-09-2017,ODI # 3909,Yes,ODI
+82,-,54,7,1,151.85,3,caught,2,Sri Lanka,Colombo (RPS),Won,06-09-2017,T20I # 618,Yes,T20I
+0,7,4,0,0,0,3,caught,1,Australia,Chennai,Won,17-09-2017,ODI # 3910,Yes,ODI
+92,148,107,8,0,85.98,3,bowled,1,Australia,Eden Gardens,Won,21-09-2017,ODI # 3912,Yes,ODI
+28,58,35,2,0,80,3,caught,2,Australia,Indore,Won,24-09-2017,ODI # 3914,Yes,ODI
+21,23,21,3,0,100,3,bowled,2,Australia,Bengaluru,Loss,28-09-2017,ODI # 3917,Yes,ODI
+39,73,55,2,0,70.9,3,caught,2,Australia,Nagpur,Won,01-10-2017,ODI # 3919,Yes,ODI
+22,19,14,3,0,157.14,3,not out,2,Australia,Ranchi,Won,07-10-2017,T20I # 623,Yes,T20I
+0,2,2,0,0,0,3,caught,1,Australia,Guwahati,Loss,10-10-2017,T20I # 624,Yes,T20I
+121,203,125,9,2,96.8,3,caught,1,New Zealand,Wankhede,Loss,22-10-2017,ODI # 3928,Yes,ODI
+29,40,29,3,1,100,3,caught,2,New Zealand,Pune,Won,25-10-2017,ODI # 3931,Yes,ODI
+113,166,106,9,1,106.6,3,caught,1,New Zealand,Kanpur,Won,29-10-2017,ODI # 3932,Yes,ODI
+26,19,11,0,3,236.36,4,not out,1,New Zealand,Delhi,Won,01-11-2017,T20I # 630,Yes,T20I
+65,59,42,8,1,154.76,4,caught,2,New Zealand,Rajkot,Loss,04-11-2017,T20I # 631,Yes,T20I
+13,6,6,1,1,216.66,3,caught,1,New Zealand,Thiruvananthapuram,Won,07-11-2017,T20I # 632,Yes,T20I
+0,18,11,0,0,0,4,lbw,1,Sri Lanka,Eden Gardens,Draw,16-11-2017,Test # 2281,Yes,Test
+104,208,119,12,2,87.39,4,not out,3,Sri Lanka,Eden Gardens,,16-11-2017,Test # 2281,Yes,Test
+213,386,267,17,2,79.77,4,caught,2,Sri Lanka,Nagpur,Won,24-11-2017,Test # 2283,Yes,Test
+243,447,287,25,0,84.66,4,lbw,1,Sri Lanka,Delhi,Draw,02-12-2017,Test # 2286,Yes,Test
+50,89,58,3,0,86.2,5,caught,3,Sri Lanka,Delhi,,02-12-2017,Test # 2286,Yes,Test
+5,14,13,0,0,38.46,4,caught,2,South Africa,Cape Town,Loss,05-01-2018,Test # 2292,Yes,Test
+28,62,40,4,0,70,4,lbw,4,South Africa,Cape Town,,05-01-2018,Test # 2292,Yes,Test
+153,379,217,15,0,70.5,4,caught,2,South Africa,Centurion,Loss,13-01-2018,Test # 2293,Yes,Test
+5,22,20,1,0,25,4,lbw,4,South Africa,Centurion,,13-01-2018,Test # 2293,Yes,Test
+54,146,106,9,0,50.94,4,caught,1,South Africa,Johannesburg,Won,24-01-2018,Test # 2294,Yes,Test
+41,131,79,6,0,51.89,5,bowled,3,South Africa,Johannesburg,,24-01-2018,Test # 2294,Yes,Test
+112,164,119,10,0,94.11,3,caught,2,South Africa,Durban,Won,01-02-2018,ODI # 3969,Yes,ODI
+46,64,50,4,1,92,3,not out,2,South Africa,Centurion,Won,04-02-2018,ODI # 3970,Yes,ODI
+160,220,159,12,2,100.62,3,not out,1,South Africa,Cape Town,Won,07-02-2018,ODI # 3971,Yes,ODI
+75,119,83,7,1,90.36,3,caught,1,South Africa,Johannesburg,Loss,10-02-2018,ODI # 3973,Yes,ODI
+36,76,54,2,0,66.66,3,run out,1,South Africa,Gqeberha,Won,13-02-2018,ODI # 3976,Yes,ODI
+129,123,96,19,2,134.37,3,not out,2,South Africa,Centurion,Won,16-02-2018,ODI # 3978,Yes,ODI
+26,26,20,2,1,130,4,lbw,1,South Africa,Johannesburg,Won,18-02-2018,T20I # 652,Yes,T20I
+1,6,5,0,0,20,4,caught,1,South Africa,Centurion,Loss,21-02-2018,T20I # 654,Yes,T20I
+0,1,2,0,0,0,6,caught,1,Ireland,Dublin (Malahide),Won,27-06-2018,T20I # 678,Yes,T20I
+9,-,8,1,0,112.5,2,caught,1,Ireland,Dublin (Malahide),Won,29-06-2018,T20I # 680,Yes,T20I
+20,-,22,0,1,90.9,4,not out,2,England,Manchester,Won,03-07-2018,T20I # 684,Yes,T20I
+47,-,38,1,2,123.68,4,caught,1,England,Cardiff,Loss,06-07-2018,T20I # 688,Yes,T20I
+43,-,29,2,2,148.27,4,caught,2,England,Bristol,Won,08-07-2018,T20I # 690,Yes,T20I
+75,-,82,7,0,91.46,3,stumped,2,England,Nottingham,Won,12-07-2018,ODI # 4014,Yes,ODI
+45,-,56,2,0,80.35,3,lbw,2,England,Lord's,Loss,14-07-2018,ODI # 4016,Yes,ODI
+71,98,72,8,0,98.61,3,bowled,1,England,Leeds,Loss,17-07-2018,ODI # 4018,Yes,ODI
+149,277,225,22,1,66.22,4,caught,2,England,Birmingham,Loss,01-08-2018,Test # 2314,Yes,Test
+51,185,93,4,0,54.83,4,lbw,4,England,Birmingham,,01-08-2018,Test # 2314,Yes,Test
+23,73,57,2,0,40.35,4,caught,1,England,Lord's,Loss,09-08-2018,Test # 2315,Yes,Test
+17,57,29,2,0,58.62,5,caught,3,England,Lord's,,09-08-2018,Test # 2315,Yes,Test
+97,243,152,11,0,63.81,4,caught,1,England,Nottingham,Won,18-08-2018,Test # 2316,Yes,Test
+103,292,197,10,0,52.28,4,lbw,3,England,Nottingham,,18-08-2018,Test # 2316,Yes,Test
+46,100,71,6,0,64.78,4,caught,2,England,Southampton,Loss,30-08-2018,Test # 2317,Yes,Test
+58,170,130,4,0,44.61,4,caught,4,England,Southampton,,30-08-2018,Test # 2317,Yes,Test
+49,112,70,6,0,70,4,caught,2,England,The Oval,Loss,07-09-2018,Test # 2318,Yes,Test
+0,3,1,0,0,0,4,caught,4,England,The Oval,,07-09-2018,Test # 2318,Yes,Test
+139,341,230,10,0,60.43,4,caught,1,West Indies,Rajkot,Won,04-10-2018,Test # 2319,Yes,Test
+45,86,78,5,0,57.69,4,lbw,2,West Indies,Hyderabad (Deccan),Won,12-10-2018,Test # 2321,Yes,Test
+140,-,107,21,2,130.84,3,stumped,2,West Indies,Guwahati,Won,21-10-2018,ODI # 4056,Yes,ODI
+157,217,129,13,4,121.7,3,not out,1,West Indies,Visakhapatnam,Tie,24-10-2018,ODI # 4059,Yes,ODI
+107,-,119,10,1,89.91,3,bowled,2,West Indies,Pune,Loss,27-10-2018,ODI # 4062,Yes,ODI
+16,-,17,2,0,94.11,3,caught,1,West Indies,Brabourne,Won,29-10-2018,ODI # 4063,Yes,ODI
+33,57,29,6,0,113.79,3,not out,2,West Indies,Thiruvananthapuram,Won,01-11-2018,ODI # 4064,Yes,ODI
+4,-,8,0,0,50,4,caught,2,Australia,Brisbane,Loss,21-11-2018,T20I # 712,Yes,T20I
+61,-,41,4,2,148.78,3,not out,2,Australia,Sydney,Won,25-11-2018,T20I # 714,Yes,T20I
+3,17,16,0,0,18.75,4,caught,1,Australia,Adelaide,Won,06-12-2018,Test # 2333,Yes,Test
+34,132,104,3,0,32.69,4,caught,3,Australia,Adelaide,,06-12-2018,Test # 2333,Yes,Test
+123,373,257,13,1,47.85,4,caught,2,Australia,Perth,Loss,14-12-2018,Test # 2334,Yes,Test
+17,64,40,2,0,42.5,4,caught,4,Australia,Perth,,14-12-2018,Test # 2334,Yes,Test
+82,305,204,9,0,40.19,4,caught,1,Australia,Melbourne,Won,26-12-2018,Test # 2337,Yes,Test
+0,6,4,0,0,0,4,caught,3,Australia,Melbourne,,26-12-2018,Test # 2337,Yes,Test
+23,-,59,4,0,38.98,4,caught,1,Australia,Sydney,Draw,03-01-2019,Test # 2339,Yes,Test
+3,10,8,0,0,37.5,3,caught,2,Australia,Sydney,Loss,12-01-2019,ODI # 4077,Yes,ODI
+104,150,112,5,2,92.85,3,caught,2,Australia,Adelaide,Won,15-01-2019,ODI # 4078,Yes,ODI
+46,-,62,3,0,74.19,3,caught,2,Australia,Melbourne,Won,18-01-2019,ODI # 4079,Yes,ODI
+45,59,59,3,0,76.27,3,caught,2,New Zealand,Napier,Won,23-01-2019,ODI # 4082,Yes,ODI
+43,59,45,5,0,95.55,3,caught,1,New Zealand,Mount Maunganui,Won,26-01-2019,ODI # 4085,Yes,ODI
+60,94,74,6,1,81.08,3,caught,2,New Zealand,Mount Maunganui,Won,28-01-2019,ODI # 4088,Yes,ODI
+24,25,17,3,0,141.17,3,caught,1,Australia,Visakhapatnam,Loss,24-02-2019,T20I # 748,Yes,T20I
+72,63,38,2,6,189.47,3,not out,1,Australia,Bengaluru,Loss,27-02-2019,T20I # 749,Yes,T20I
+44,-,45,6,1,97.77,3,lbw,2,Australia,Hyderabad (Deccan),Won,02-03-2019,ODI # 4102,Yes,ODI
+116,-,120,10,0,96.66,3,caught,1,Australia,Nagpur,Won,05-03-2019,ODI # 4106,Yes,ODI
+123,-,95,16,1,129.47,3,bowled,2,Australia,Ranchi,Loss,08-03-2019,ODI # 4109,Yes,ODI
+7,-,6,1,0,116.66,4,caught,1,Australia,Mohali,Loss,10-03-2019,ODI # 4111,Yes,ODI
+20,-,22,2,0,90.9,3,caught,2,Australia,Delhi,Loss,13-03-2019,ODI # 4113,Yes,ODI
+18,44,34,1,0,52.94,3,caught,2,South Africa,Southampton,Won,05-06-2019,ODI # 4150,Yes,ODI
+82,128,77,4,2,106.49,3,caught,1,Australia,The Oval,Won,09-06-2019,ODI # 4155,Yes,ODI
+77,105,65,7,0,118.46,3,caught,1,Pakistan,Manchester,Won,16-06-2019,ODI # 4161,Yes,ODI
+67,105,63,5,0,106.34,3,caught,1,Afghanistan,Southampton,Won,22-06-2019,ODI # 4169,Yes,ODI
+72,146,82,8,0,87.8,3,caught,1,West Indies,Manchester,Won,27-06-2019,ODI # 4175,Yes,ODI
+66,103,76,7,0,86.84,3,caught,2,England,Birmingham,Loss,30-06-2019,ODI # 4179,Yes,ODI
+26,45,27,3,0,96.29,3,caught,1,Bangladesh,Birmingham,Won,02-07-2019,ODI # 4182,Yes,ODI
+34,61,41,3,0,82.92,3,not out,2,Sri Lanka,Leeds,Won,06-07-2019,ODI # 4187,Yes,ODI
+1,8,6,0,0,16.66,3,lbw,2,New Zealand,Manchester,Loss,09-07-2019,ODI # 4190,Yes,ODI
+19,-,29,1,0,65.51,3,caught,2,West Indies,Lauderhill,Won,03-08-2019,T20I # 842,Yes,T20I
+28,-,23,1,1,121.73,3,bowled,1,West Indies,Lauderhill,Won,04-08-2019,T20I # 843,Yes,T20I
+59,-,45,6,0,131.11,3,caught,2,West Indies,Providence,Won,06-08-2019,T20I # 846,Yes,T20I
+120,179,125,14,1,96,3,caught,1,West Indies,Port of Spain,Won,11-08-2019,ODI # 4197,Yes,ODI
+114,127,99,14,0,115.15,3,not out,2,West Indies,Port of Spain,Won,14-08-2019,ODI # 4199,Yes,ODI
+9,-,12,2,0,75,4,caught,1,West Indies,North Sound,Won,22-08-2019,Test # 2358,Yes,Test
+51,-,113,2,0,45.13,4,caught,3,West Indies,North Sound,,22-08-2019,Test # 2358,Yes,Test
+76,211,163,10,0,46.62,4,caught,1,West Indies,Kingston,Won,30-08-2019,Test # 2359,Yes,Test
+0,3,1,0,0,0,4,caught,3,West Indies,Kingston,,30-08-2019,Test # 2359,Yes,Test
+72,66,52,4,3,138.46,3,not out,2,South Africa,Mohali,Won,18-09-2019,T20I # 888,Yes,T20I
+9,28,15,0,0,60,3,caught,1,South Africa,Bengaluru,Loss,22-09-2019,T20I # 893,Yes,T20I
+20,-,40,4,0,50,4,caught,1,South Africa,Visakhapatnam,Won,02-10-2019,Test # 2363,Yes,Test
+31,-,25,3,1,124,5,not out,3,South Africa,Visakhapatnam,,02-10-2019,Test # 2363,Yes,Test
+254,-,336,33,2,75.59,4,not out,1,South Africa,Pune,Won,10-10-2019,Test # 2364,Yes,Test
+12,-,22,2,0,54.54,4,lbw,1,South Africa,Ranchi,Won,19-10-2019,Test # 2365,Yes,Test
+0,-,2,0,0,0,4,lbw,2,Bangladesh,Indore,Won,14-11-2019,Test # 2366,Yes,Test
+136,-,194,18,0,70.1,4,caught,2,Bangladesh,Eden Gardens,Won,22-11-2019,Test # 2369,Yes,Test
+94,-,50,6,6,188,3,not out,2,West Indies,Hyderabad (Deccan),Won,06-12-2019,T20I # 1020,Yes,T20I
+19,-,17,2,0,111.76,4,caught,1,West Indies,Thiruvananthapuram,Loss,08-12-2019,T20I # 1022,Yes,T20I
+70,-,29,4,7,241.37,4,not out,1,West Indies,Wankhede,Won,11-12-2019,T20I # 1024,Yes,T20I
+4,-,4,1,0,100,3,bowled,1,West Indies,Chennai,Loss,15-12-2019,ODI # 4221,Yes,ODI
+0,-,1,0,0,0,3,caught,1,West Indies,Visakhapatnam,Won,18-12-2019,ODI # 4222,Yes,ODI
+85,-,81,9,0,104.93,3,bowled,2,West Indies,Cuttack,Won,22-12-2019,ODI # 4223,Yes,ODI
+30,-,17,1,2,176.47,4,not out,2,Sri Lanka,Indore,Won,07-01-2020,T20I # 1026,Yes,T20I
+26,-,17,2,1,152.94,6,run out,1,Sri Lanka,Pune,Won,10-01-2020,T20I # 1027,Yes,T20I
+16,-,14,0,1,114.28,4,caught,1,Australia,Wankhede,Loss,14-01-2020,ODI # 4231,Yes,ODI
+78,-,76,6,0,102.63,3,caught,1,Australia,Rajkot,Won,17-01-2020,ODI # 4232,Yes,ODI
+89,-,91,8,0,97.8,3,bowled,2,Australia,Bengaluru,Won,19-01-2020,ODI # 4233,Yes,ODI
+45,-,32,3,1,140.62,3,caught,2,New Zealand,Auckland,Won,24-01-2020,T20I # 1031,Yes,T20I
+11,21,12,1,0,91.66,3,caught,2,New Zealand,Auckland,Won,26-01-2020,T20I # 1034,Yes,T20I
+38,31,27,2,1,140.74,4,caught,1,New Zealand,Hamilton,Won,29-01-2020,T20I # 1035,Yes,T20I
+11,16,9,2,0,122.22,3,caught,1,New Zealand,Wellington,Won,31-01-2020,T20I # 1036,Yes,T20I
+51,88,63,6,0,80.95,3,bowled,1,New Zealand,Hamilton,Loss,05-02-2020,ODI # 4235,Yes,ODI
+15,31,25,1,0,60,3,bowled,2,New Zealand,Auckland,Loss,08-02-2020,ODI # 4239,Yes,ODI
+9,20,12,0,1,75,3,caught,1,New Zealand,Mount Maunganui,Loss,11-02-2020,ODI # 4243,Yes,ODI
+2,9,7,0,0,28.57,4,caught,1,New Zealand,Wellington,Loss,21-02-2020,Test # 2385,Yes,Test
+19,61,43,3,0,44.18,4,caught,3,New Zealand,Wellington,,21-02-2020,Test # 2385,Yes,Test
+3,23,15,0,0,20,4,lbw,1,New Zealand,Christchurch,Loss,29-02-2020,Test # 2387,Yes,Test
+14,40,30,3,0,46.66,4,lbw,3,New Zealand,Christchurch,,29-02-2020,Test # 2387,Yes,Test
+21,-,21,2,1,100,3,caught,2,Australia,Sydney,Loss,27-11-2020,ODI # 4265,Yes,ODI
+89,-,87,7,2,102.29,3,caught,2,Australia,Sydney,Loss,29-11-2020,ODI # 4266,Yes,ODI
+63,-,78,5,0,80.76,3,caught,1,Australia,Canberra,Won,02-12-2020,ODI # 4267,Yes,ODI
+9,-,9,1,0,100,3,caught,1,Australia,Canberra,Won,04-12-2020,T20I # 1114,Yes,T20I
+40,-,24,2,2,166.66,3,caught,2,Australia,Sydney,Won,06-12-2020,T20I # 1115,Yes,T20I
+85,-,61,4,3,139.34,3,caught,2,Australia,Sydney,Loss,08-12-2020,T20I # 1116,Yes,T20I
+74,244,180,8,0,41.11,4,run out,1,Australia,Adelaide,Loss,17-12-2020,Test # 2396,Yes,Test
+4,13,8,1,0,50,5,caught,3,Australia,Adelaide,,17-12-2020,Test # 2396,Yes,Test
+11,69,48,0,0,22.91,4,caught,2,England,Chennai,Loss,05-02-2021,Test # 2409,Yes,Test
+72,153,104,9,0,69.23,4,bowled,4,England,Chennai,,05-02-2021,Test # 2409,Yes,Test
+0,6,5,0,0,0,4,bowled,1,England,Chennai,Won,13-02-2021,Test # 2411,Yes,Test
+62,200,149,7,0,41.61,4,lbw,3,England,Chennai,,13-02-2021,Test # 2411,Yes,Test
+27,85,58,3,0,46.55,4,bowled,2,England,Ahmedabad,Won,24-02-2021,Test # 2412,Yes,Test
+0,13,8,0,0,0,4,caught,2,England,Ahmedabad,Won,04-03-2021,Test # 2414,Yes,Test
+0,6,5,0,0,0,3,caught,1,England,Ahmedabad,Loss,12-03-2021,T20I # 1131,Yes,T20I
+73,85,49,5,3,148.97,3,not out,2,England,Ahmedabad,Won,14-03-2021,T20I # 1132,Yes,T20I
+77,80,46,8,4,167.39,4,not out,1,England,Ahmedabad,Loss,16-03-2021,T20I # 1133,Yes,T20I
+1,3,5,0,0,20,4,stumped,1,England,Ahmedabad,Won,18-03-2021,T20I # 1135,Yes,T20I
+80,103,52,7,2,153.84,2,not out,1,England,Ahmedabad,Won,20-03-2021,T20I # 1138,Yes,T20I
+56,65,60,6,0,93.33,3,caught,1,England,Pune,Won,23-03-2021,ODI # 4281,Yes,ODI
+66,110,79,3,1,83.54,3,caught,1,England,Pune,Loss,26-03-2021,ODI # 4283,Yes,ODI
+7,14,10,1,0,70,3,bowled,1,England,Pune,Won,28-03-2021,ODI # 4284,Yes,ODI
+44,196,132,1,0,33.33,4,lbw,1,New Zealand,Southampton,Loss,18-06-2021,Test # 2425,Yes,Test
+13,43,29,0,0,44.82,4,caught,3,New Zealand,Southampton,,18-06-2021,Test # 2425,Yes,Test
+0,2,1,0,0,0,4,caught,2,England,Nottingham,Draw,04-08-2021,Test # 2428,Yes,Test
+42,152,103,3,0,40.77,4,caught,1,England,Lord's,Won,12-08-2021,Test # 2429,Yes,Test
+20,54,31,4,0,64.51,4,caught,3,England,Lord's,,12-08-2021,Test # 2429,Yes,Test
+7,31,17,1,0,41.17,4,caught,1,England,Leeds,Loss,25-08-2021,Test # 2432,Yes,Test
+55,173,125,8,0,44,4,caught,3,England,Leeds,,25-08-2021,Test # 2432,Yes,Test
+50,133,96,8,0,52.08,4,caught,1,England,The Oval,Won,02-09-2021,Test # 2433,Yes,Test
+44,151,96,7,0,45.83,4,caught,3,England,The Oval,,02-09-2021,Test # 2433,Yes,Test
+57,94,49,5,1,116.32,3,caught,1,Pakistan,Dubai (DSC),Loss,24-10-2021,T20I # 1361,Yes,T20I
+9,20,17,0,0,52.94,4,caught,1,New Zealand,Dubai (DSC),Loss,31-10-2021,T20I # 1381,Yes,T20I
+2,7,2,0,0,100,3,not out,2,Scotland,Dubai (DSC),Won,05-11-2021,T20I # 1396,Yes,T20I
+0,8,4,0,0,0,4,lbw,1,New Zealand,Wankhede,Won,03-12-2021,Test # 2438,Yes,Test
+36,111,84,1,1,42.85,4,bowled,3,New Zealand,Wankhede,,03-12-2021,Test # 2438,Yes,Test
+35,108,94,4,0,37.23,4,caught,1,South Africa,Centurion,Won,26-12-2021,Test # 2443,Yes,Test
+18,41,32,4,0,56.25,5,caught,3,South Africa,Centurion,,26-12-2021,Test # 2443,Yes,Test
+79,273,201,12,1,39.3,4,caught,1,South Africa,Cape Town,Loss,11-01-2022,Test # 2448,Yes,Test
+29,193,143,4,0,20.27,4,caught,3,South Africa,Cape Town,,11-01-2022,Test # 2448,Yes,Test
+51,79,63,3,0,80.95,3,caught,2,South Africa,Paarl,Loss,19-01-2022,ODI # 4344,No,ODI
+0,4,5,0,0,0,3,caught,1,South Africa,Paarl,Loss,21-01-2022,ODI # 4346,No,ODI
+65,112,84,5,0,77.38,3,caught,2,South Africa,Cape Town,Loss,23-01-2022,ODI # 4349,No,ODI
+8,6,4,2,0,200,3,caught,2,West Indies,Ahmedabad,Won,06-02-2022,ODI # 4353,No,ODI
+18,42,30,3,0,60,3,caught,1,West Indies,Ahmedabad,Won,09-02-2022,ODI # 4355,No,ODI
+0,2,2,0,0,0,3,caught,1,West Indies,Ahmedabad,Won,11-02-2022,ODI # 4356,No,ODI
+17,25,13,1,0,130.76,3,caught,2,West Indies,Eden Gardens,Won,16-02-2022,T20I # 1467,No,T20I
+52,57,41,7,1,126.82,3,bowled,1,West Indies,Eden Gardens,Won,18-02-2022,T20I # 1473,No,T20I
+45,106,76,5,0,59.21,4,bowled,1,Sri Lanka,Mohali,Won,04-03-2022,Test # 2452,No,Test
+23,63,48,2,0,47.91,4,lbw,1,Sri Lanka,Bengaluru,Won,12-03-2022,Test # 2456,No,Test
+13,27,16,1,0,81.25,4,lbw,3,Sri Lanka,Bengaluru,,12-03-2022,Test # 2456,No,Test
+11,33,19,2,0,57.89,4,bowled,1,England,Birmingham,Loss,01-07-2022,Test # 2470,No,Test
+20,64,40,4,0,50,4,caught,3,England,Birmingham,,01-07-2022,Test # 2470,No,Test
+1,8,3,0,0,33.33,3,caught,1,England,Birmingham,Won,09-07-2022,T20I # 1628,No,T20I
+11,8,6,1,1,183.33,3,caught,2,England,Nottingham,Loss,10-07-2022,T20I # 1631,No,T20I
+16,39,25,3,0,64,3,caught,2,England,Lord's,Loss,14-07-2022,ODI # 4428,No,ODI
+17,27,22,3,0,77.27,3,caught,2,England,Manchester,Won,17-07-2022,ODI # 4433,No,ODI
+35,47,34,3,1,102.94,3,caught,2,Pakistan,Dubai (DSC),Won,28-08-2022,T20I # 1750,No,T20I
+59,74,44,1,3,134.09,3,not out,1,Hong Kong,Dubai (DSC),Won,31-08-2022,T20I # 1754,No,T20I
+60,77,44,4,1,136.36,3,run out,1,Pakistan,Dubai (DSC),Loss,04-09-2022,T20I # 1758,No,T20I
+0,6,4,0,0,0,3,bowled,1,Sri Lanka,Dubai (DSC),Loss,06-09-2022,T20I # 1759,No,T20I
+122,90,61,12,6,200,2,not out,1,Afghanistan,Dubai (DSC),Won,08-09-2022,T20I # 1761,No,T20I
+2,12,7,0,0,28.57,3,caught,1,Australia,Mohali,Loss,20-09-2022,T20I # 1788,No,T20I
+11,-,6,2,0,183.33,3,bowled,2,Australia,Nagpur,Won,23-09-2022,T20I # 1794,No,T20I
+63,89,48,3,4,131.25,3,caught,2,Australia,Hyderabad (Deccan),Won,25-09-2022,T20I # 1796,No,T20I
+3,19,9,0,0,33.33,3,caught,2,South Africa,Thiruvananthapuram,Won,28-09-2022,T20I # 1800,No,T20I
+49,56,28,7,1,175,3,not out,1,South Africa,Guwahati,Won,02-10-2022,T20I # 1803,No,T20I
+82,98,53,6,4,154.71,3,not out,2,Pakistan,Melbourne,Won,23-10-2022,T20I # 1842,No,T20I
+62,79,44,3,2,140.9,3,not out,1,Netherlands,Sydney,Won,27-10-2022,T20I # 1848,No,T20I
+12,13,11,2,0,109.09,3,caught,1,South Africa,Perth,Loss,30-10-2022,T20I # 1853,No,T20I
+64,84,44,8,1,145.45,3,not out,1,Bangladesh,Adelaide,Won,02-11-2022,T20I # 1860,No,T20I
+26,36,25,2,0,104,3,caught,1,Zimbabwe,Melbourne,Won,06-11-2022,T20I # 1873,No,T20I
+50,75,40,4,1,125,3,caught,1,England,Adelaide,Loss,10-11-2022,T20I#1878,No,T20I
+9,22,15,1,0,60,3,caught,1,Bangladesh,Mirpur,Loss,04-12-2022,ODI#4493,No,ODI
+5,9,6,1,0,83.33,1,bowled,2,Bangladesh,Mirpur,Loss,07-12-2022,ODI#4496,No,ODI
+113,174,91,11,2,124.17,3,caught,1,Bangladesh,Chattogram,Won,10-12-2022,ODI#4499,No,ODI
+1,8,5,0,0,20,4,lbw,1,Bangladesh,Chattogram,Won,14-12-2022,Test#2481,No,Test
+19,40,29,0,0,65.51,4,not out,3,Bangladesh,Chattogram,,14-12-2022,Test#2481,No,Test
+24,91,73,3,0,32.87,4,caught,2,Bangladesh,Mirpur,Won,22-12-2022,Test#2484,No,Test
+1,20,22,0,0,4.54,5,caught,4,Bangladesh,Mirpur,,22-12-2022,Test#2484,No,Test
+113,117,87,12,1,129.88,3,caught,1,Sri Lanka,Guwahati,Won,10-01-2023,ODI#4501,No,ODI
+4,27,9,1,0,44.44,3,bowled,2,Sri Lanka,Eden Gardens,Won,12-01-2023,ODI#4503,No,ODI
+8,16,10,1,0,80,3,bowled,1,New Zealand,Hyderabad (Deccan),Won,18-01-2023,ODI#4507,No,ODI
+11,19,9,2,0,122.2,3,stumped,2,New Zealand,Raipur,Won,21-01-2023,ODI#4509,No,ODI
+36,44,27,3,1,133.33,3,caught,1,New Zealand,Indore,Won,24-01-2023,ODI#4511,No,ODI
+12,27,26,2,0,46.15,5,caught,2,Australia,Nagpur,Won,09-02-2023,Test#2490,No,Test
+44,127,84,4,0,52.38,4,lbw,2,Australia,Delhi,Won,17-02-2023,Test#2493,No,Test
+20,47,31,3,0,64.51,4,stumped,4,Australia,Delhi,,17-02-2023,Test#2493,No,Test
+22,64,52,2,0,42.3,4,lbw,1,Australia,Indore,Loss,01-03-2023,Test#2496,No,Test
+13,35,26,2,0,50,4,lbw,3,Australia,Indore,,01-03-2023,Test#2496,No,Test
+186,517,364,15,0,51.09,4,caught,2,Australia,Ahmedabad,Draw,09-03-2023,Test#2499,No,Test
+4,15,9,1,0,44.44,3,lbw,2,Australia,Wankhede,Won,17-03-2023,ODI#4538,No,ODI
+31,79,35,4,0,88.57,3,lbw,1,Australia,Visakhapatnam,Loss,19-03-2023,ODI#4541,No,ODI
+54,118,72,2,1,75,3,caught,2,Australia,Chennai,Loss,22-03-2023,ODI#4545,No,ODI
+14,56,31,2,0,45.16,4,caught,2,Australia,The Oval,Loss,07-06-2023,Test#2505,No,Test
+49,115,78,7,0,62.82,4,caught,4,Australia,The Oval,,07-06-2023,Test#2505,No,Test
+76,262,182,5,0,41.75,4,caught,2,West Indies,Roseau,Won,12-07-2023,Test#2510,No,Test
+121,272,206,11,0,58.73,4,run out,1,West Indies,Port of Spain,Draw,20-07-2023,Test#2513,No,Test
+4,8,7,1,0,57.14,3,bowled,1,Pakistan,Pallekele,NR,02-09-2023,ODI#4630,No,ODI
+122,147,94,9,3,129.78,3,not out,1,Pakistan,Colombo (RPS),Won,10-09-2023,ODI#4639,No,ODI
+3,12,12,0,0,25,3,caught,1,Sri Lanka,Colombo (RPS),Won,12-09-2023,ODI#4641,No,ODI
+56,63,61,5,1,91.8,3,caught,2,Australia,Rajkot,Loss,27-09-2023,ODI#4657,No,ODI
+85,171,116,6,0,73.27,3,caught,2,Australia,Chennai,Won,08-10-2023,ODI#4662,No,ODI
+55,61,56,6,0,98.21,3,not out,2,Afghanistan,Delhi,Won,11-10-2023,ODI#4666,No,ODI
+16,31,18,3,0,88.88,3,caught,2,Pakistan,Ahmedabad,Won,14-10-2023,ODI#4669,No,ODI
+103,113,97,6,4,106.18,3,not out,2,Bangladesh,Pune,Won,19-10-2023,ODI#4674,No,ODI
+95,154,104,8,2,91.34,3,caught,2,New Zealand,Dharamsala,Won,22-10-2023,ODI#4678,No,ODI
+0,12,9,0,0,0,3,caught,1,England,Lucknow,Won,29-10-2023,ODI#4686,No,ODI
+88,139,94,11,0,93.61,3,caught,1,Sri Lanka,Wankhede,Won,02-11-2023,ODI#4690,No,ODI
+101,195,121,10,0,83.47,3,not out,1,South Africa,Eden Gardens,Won,05-11-2023,ODI#4694,No,ODI
+51,69,56,5,1,91.07,3,bowled,1,Netherlands,Bengaluru,Won,12-11-2023,ODI#4702,No,ODI
+117,149,113,9,2,103.53,3,caught,1,New Zealand,Wankhede,Won,15-11-2023,ODI#4703,No,ODI
+54,99,63,4,0,85.71,3,bowled,1,Australia,Ahmedabad,Loss,19-11-2023,ODI#4705,No,ODI
+38,96,64,5,0,59.37,4,caught,1,South Africa,Centurion,Loss,26-12-2023,Test#2520,No,Test
+76,137,82,12,1,92.68,4,caught,3,South Africa,Centurion,,26-12-2023,Test#2520,No,Test
+46,103,59,6,1,77.96,4,caught,2,South Africa,Cape Town,Won,03-01-2024,Test#2522,No,Test
+12,13,11,2,0,109.09,4,caught,4,South Africa,Cape Town,,03-01-2024,Test#2522,No,Test
+29,20,16,5,0,181.25,3,caught,2,Afghanistan,Indore,Won,14-01-2024,T20I#2431,No,T20I
+166,173,110,13,8,150.9,3,not out,1,Sri Lanka,Thiruvananthapuram,Won,15-01-2023,ODI#4505,No,ODI
+0,1,1,0,0,0,3,caught,1,Afghanistan,Bengaluru,Won,17-01-2024,T20I#2435,No,T20I
+1,13,5,0,0,20,2,caught,2,Ireland,New York,Won,05-06-2024,T20I#2639,No,T20I
+4,7,3,1,0,133.33,2,caught,1,Pakistan,New York,Won,09-06-2024,T20I#2658,No,T20I
+0,1,1,0,0,0,2,caught,2,U.S.A.,New York,Won,12-06-2024,T20I#2671,No,T20I
+24,41,24,0,1,100,2,caught,1,Afghanistan,Bridgetown,Won,20-06-2024,T20I#2710,No,T20I
+37,34,28,1,3,132.14,2,bowled,1,Bangladesh,North Sound,Won,22-06-2024,T20I#2716,No,T20I
+0,8,5,0,0,0,2,caught,1,Australia,Gros Islet,Won,24-06-2024,T20I#2721,No,T20I
+9,10,9,0,1,100,2,bowled,1,England,Providence,Won,27-06-2024,T20I#2724,No,T20I
+76,87,59,6,2,128.81,2,caught,1,South Africa,Bridgetown,Won,29-06-2024,T20I#2729,No,T20I
+24,42,32,2,0,75,3,lbw,2,Sri Lanka,Colombo (RPS),Tie,02-08-2024,ODI#4752,No,ODI
+14,27,19,2,0,73.68,3,lbw,2,Sri Lanka,Colombo (RPS),Loss,04-08-2024,ODI#4753,No,ODI
+20,29,18,4,0,111.11,3,lbw,2,Sri Lanka,Colombo (RPS),Loss,07-08-2024,ODI#4754,No,ODI
+6,9,6,0,0,100,4,caught,1,Bangladesh,Chennai,Won,19-09-2024,TEST#2550,No,Test
+17,43,37,2,0,45.94,4,lbw,3,Bangladesh,Chennai,,19-09-2024,TEST#2550,No,Test
